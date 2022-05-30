@@ -266,7 +266,7 @@ body {
 .el:nth-child(1) .el__bg:before {
   transform: translate3d(-50%, 0, 0);
   transition-delay: 0s;
-  background-image: url('Asset/image/07500003.JPG');
+  background-image: url('Asset/Image/07500003.JPG');
 }
 .el:nth-child(2) {
   transform: translate3d(105.2083333333%, 0, 0);
